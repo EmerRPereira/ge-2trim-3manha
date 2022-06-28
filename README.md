@@ -18,4 +18,6 @@
 
 <img src="http://computacaonaescola.com.br/wp-content/uploads/2017/07/cropped-pensamentoComputacional-2.png" width="400" height="300"/>
 
-sdjf
+---
+
+Equipe Antônio, José, Maria e Carlos
