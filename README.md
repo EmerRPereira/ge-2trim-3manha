@@ -1,2 +1,3 @@
-# ge-2trim-3manha
-Acompanhamento da turma de Terça-feira pela manhã
+# Acompanhamento da turma de Terça-feira - Manhã
+## (Repositório ge-2trim-3manha)
+
